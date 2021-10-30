@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sriraj-dev
 - 👀 I’m interested in AppDevelopment and GameDevelopment
-- 🌱 I’m currently learning AppDevelopment
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me - palakurthi.sriraj.eee20@itbhu.ac.in
 
